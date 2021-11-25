@@ -10,18 +10,25 @@ body {
     width: 100%;
     text-align: center;
     padding: 20px 0;
-    font-size: 35px;
+    font-size: 25px;
     z-index: 10;
 }
 #minha_foto {
     width: 600px;
     position: absolute;    
     left: 383px;
-    top: 300px; 
+    top: 200px; 
     display: block;
 }
 #licoes_aprendidas {
     display: inline-block;
-    border: solid red 1px;
-
+    margin-left: 260px;
+}
+#locoes_a_aprender {
+    display: inline-block;
+    margin-left: 260px;
+}
+#listas {
+    display: inline-block;
+    margin-top: 600px;
 }
