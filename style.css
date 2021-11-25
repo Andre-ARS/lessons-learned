@@ -37,3 +37,8 @@ body {
     margin: 600px auto 100px auto;
     width: 100%;
 }
+#rodape {
+    padding: 23px 10px 4px 10px;
+    background-color: rgb(228, 218, 218);
+    font-size: 18px;
+}
