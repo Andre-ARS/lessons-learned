@@ -19,16 +19,21 @@ body {
     left: 383px;
     top: 200px; 
     display: block;
+    border-radius: 45px;
 }
 #licoes_aprendidas {
     display: inline-block;
     margin-left: 260px;
 }
-#locoes_a_aprender {
+#licoes_a_aprender {
     display: inline-block;
-    margin-left: 260px;
+    margin-left: 300px;
+}
+#licoes_a_aprender h2 {
+    text-align: center;
 }
 #listas {
     display: inline-block;
-    margin-top: 600px;
+    margin: 600px auto 100px auto;
+    width: 100%;
 }
