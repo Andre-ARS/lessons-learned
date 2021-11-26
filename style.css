@@ -46,9 +46,11 @@ body {
     font-size: 17px;
 }
 #rodape {
-    padding: 23px 10px 4px;
+    padding-top: 23px;
     background-color: rgb(228, 218, 218);
     font-size: 18px;
+    display: block;
+    width: 100%;
 }
 #links li {
     display: inline-block;
@@ -69,12 +71,12 @@ body {
     margin: 200px 14%;
     width: 30%;
     border-right: solid  rgb(228, 218, 218) 1px;
-    padding-right: 75px;
+    padding-right: 87px;
     font-size: 20px;
     font-family: 'Oswald', sans-serif;
     line-height: 40px;
 }
-#article strong {
+#textos strong {
     color: rgb(82, 183, 136);
 
 }
@@ -86,5 +88,15 @@ body {
 }
 .lado-direito {
     display: inline-block;
-
+    width: 30%;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    line-height: 40px;    
+    padding-top: 100px;
+    position: absolute;
+    right: 170px;
+    top: 1075px;
+}
+#textos {
+    padding-right: ;
 }
