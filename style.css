@@ -1,8 +1,10 @@
 * {
     margin: 0;
+    max-width: 1366;
 }
 body {
-    background-color:rgb(253, 251, 251);
+
+    background-color: rgb(253, 251, 251);
 }
 #cabecalho {
     background-color: rgb(14, 84, 62);
@@ -12,6 +14,7 @@ body {
     padding: 20px 0  5px 0;
     font-size: 25px;
     border-bottom: solid rgb(57, 181, 101) 8px;
+    color: whitesmoke;
     z-index: 10;
 }
 #minha_foto {
@@ -55,5 +58,6 @@ body {
     z-index: 12;   
 }
 #links img {
-    width: 57px;    
+    width: 60px;    
 }
+
