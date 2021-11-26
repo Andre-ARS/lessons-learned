@@ -60,4 +60,7 @@ body {
 #links img {
     width: 60px;    
 }
-
+#article {
+    display: inline-block;
+    margin: 60px 13%;
+}
