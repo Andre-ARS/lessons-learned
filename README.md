@@ -19,3 +19,4 @@ Dentro do diretório do projeto instale as depencias
 ```bash
 npm install
 ``` 
+Link do Site com Deploy utilizando Vercel: [Lessons Learned](https://lessons-learned-ars.vercel.app/)
